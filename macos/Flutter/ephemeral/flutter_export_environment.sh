@@ -1,7 +1,7 @@
 #!/bin/sh
 # This is a generated file; do not edit or check into version control.
 export "FLUTTER_ROOT=/Users/miklosdudas/flutter"
-export "FLUTTER_APPLICATION_PATH=/Users/miklosdudas/Desktop/personal-flutter/plugins/flutter_datetime_picker/phone_number"
+export "FLUTTER_APPLICATION_PATH=/Users/miklosdudas/Desktop/personal-flutter/plugins/phone_number"
 export "COCOAPODS_PARALLEL_CODE_SIGN=true"
 export "FLUTTER_BUILD_DIR=build"
 export "FLUTTER_BUILD_NAME=0.0.1"
